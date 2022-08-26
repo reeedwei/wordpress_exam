@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; Technology Web</title>
-	<atom:link href="https://https://reeedwei.github.io/wordpress_exam/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://reeedwei.github.io/wordpress_exam</link>
+	<atom:link href="/https://reeedwei.github.io/wordpress-exam/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://reeedwei.github.io/wordpress-exam</link>
 	<description>Just slightly ahead of our time.</description>
 	<lastBuildDate>Fri, 26 Aug 2022 13:49:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,60 +21,60 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/hello-world/</link>
-					<comments>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/hello-world/#comments</comments>
+		<link>/https://reeedwei.github.io/wordpress-exam/2022/08/26/hello-world/</link>
+					<comments>/https://reeedwei.github.io/wordpress-exam/2022/08/26/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 13:49:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://reeedwei.github.io/wordpress_exam/?p=1</guid>
+		<guid isPermaLink="false">/https://reeedwei.github.io/wordpress-exam/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://reeedwei.github.io/wordpress-exam/2022/08/26/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Technology Web</title>
-		<link>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/technology-web/</link>
-					<comments>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/technology-web/#respond</comments>
+		<link>/https://reeedwei.github.io/wordpress-exam/2022/08/26/technology-web/</link>
+					<comments>/https://reeedwei.github.io/wordpress-exam/2022/08/26/technology-web/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 Aug 2022 00:58:21 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://reeedwei.github.io/wordpress_exam/?p=4</guid>
+		<guid isPermaLink="false">/https://reeedwei.github.io/wordpress-exam/?p=4</guid>
 
 					<description><![CDATA[Just another WordPress site]]></description>
 										<content:encoded><![CDATA[
 <p>Just another WordPress site</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://reeedwei.github.io/wordpress_exam/2022/08/26/technology-web/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://reeedwei.github.io/wordpress-exam/2022/08/26/technology-web/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://https://reeedwei.github.io/wordpress_exam/2022/08/25/hello-world-2/</link>
-					<comments>https://https://reeedwei.github.io/wordpress_exam/2022/08/25/hello-world-2/#comments</comments>
+		<link>/https://reeedwei.github.io/wordpress-exam/2022/08/25/hello-world-2/</link>
+					<comments>/https://reeedwei.github.io/wordpress-exam/2022/08/25/hello-world-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 Aug 2022 09:12:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://https://reeedwei.github.io/wordpress_exam/?p=1</guid>
+		<guid isPermaLink="false">/https://reeedwei.github.io/wordpress-exam/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://reeedwei.github.io/wordpress_exam/2022/08/25/hello-world-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://reeedwei.github.io/wordpress-exam/2022/08/25/hello-world-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
